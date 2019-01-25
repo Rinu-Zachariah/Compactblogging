@@ -1,0 +1,52 @@
+{
+	"group": [
+	{
+		"name": "Jan K",
+		"mon": 0,
+		"tues": 5,
+		"wed": 5,
+		"thurs": 10,
+		"fri": 10
+	},
+	{
+		"name": "Rinu Z",
+		"mon": 5,
+		"tues": 5,
+		"wed": 5,
+		"thurs": 10,
+		"fri": 10
+	},
+	{
+		"name": "Janik J",
+		"mon": 10,
+		"tues": 10,
+		"wed": 10,
+		"thurs": 10,
+		"fri": 10
+	},
+	{
+		"name": "Name 3",
+		"mon": 0,
+		"tues": 0,
+		"wed": 0,
+		"thurs": "",
+		"fri": 0
+	},
+	{
+		"name": "Name 4",
+		"mon": 5,
+		"tues": "",
+		"wed": "",
+		"thurs": 5,
+		"fri": 5
+	},
+	{
+		"name": "Name 5",
+		"mon": 10,
+		"tues": 5,
+		"wed": 5,
+		"thurs": 10,
+		"fri": 10
+	}
+	]
+}

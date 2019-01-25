@@ -1,0 +1,19 @@
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+  padding: 15px 0px 15px 0px;
+}
+.content {
+  margin: 0px 20px;
+}
+.checkbox-label {
+  font-size: 13px;
+}
+.autocomplete-component {
+  width: 100%;
+}
+/** Antd Table Overrides **/
+.ant-table-thead > tr> th , .ant-table-tbody {
+  text-align: center;
+}

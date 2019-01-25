@@ -1,0 +1,26 @@
+.cardContent {
+  display:flex;
+  flex-direction: column;
+  width: 40%;
+}
+.cardContent span{
+  padding: 10px 0;
+}
+
+.card {
+  display: flex;
+  text-align: center;
+  border: 1px solid black;
+  justify-content: space-around;
+}
+
+.loginBtn {
+  margin: 10px 0;
+}
+.ant-card-body{
+  text-align: center;
+  border: 1px solid black;
+}
+.setMargin{
+  margin:20px;
+}
